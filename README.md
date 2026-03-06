@@ -1,6 +1,6 @@
 # Proud Chicken — Exam Project
 
-A Windows desktop application built with **WPF (.NET)** and **C#** for managing a chicken restaurant. Developed as a group exam project (Williamgruppe).
+A Windows desktop application built with **WPF (.NET)** and **C#** for managing a chicken restaurant. Developed as a group exam project.
 
 ## About
 
